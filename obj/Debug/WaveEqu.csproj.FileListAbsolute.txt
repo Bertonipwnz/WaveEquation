@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\WaveEqu\bin\Debug\WaveEqu.exe.config
+C:\Users\User\source\repos\WaveEqu\bin\Debug\WaveEqu.exe
+C:\Users\User\source\repos\WaveEqu\bin\Debug\WaveEqu.pdb
+C:\Users\User\source\repos\WaveEqu\obj\Debug\WaveEqu.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WaveEqu\obj\Debug\WaveEqu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WaveEqu\obj\Debug\WaveEqu.exe
+C:\Users\User\source\repos\WaveEqu\obj\Debug\WaveEqu.pdb
